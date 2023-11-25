@@ -5,6 +5,8 @@ https://replit.com/@andresrestrepog/Proyecto-Final-Lenguajes-de-programacion
 https://youtu.be/GPm1UVaRaKM
 
 
+https://github.com/jcamilogj/Proyecto-Final-
+
 import random
 
 
